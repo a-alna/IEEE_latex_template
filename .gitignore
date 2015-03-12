@@ -5,3 +5,8 @@
 *.blg
 *.log
 *.gz
+*.pdf
+*.pdf.orig
+
+*.fdb_latexmk
+*.fls
